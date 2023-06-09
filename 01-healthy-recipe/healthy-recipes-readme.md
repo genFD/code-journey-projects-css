@@ -2,8 +2,10 @@
 
 ## Table of contents
 
-- [Concepts](#concepts-to-review-for-this-project)
-- [Learning goal](#learning-goal)
+- [✅ Project completed](#project-completed-repo)
+- [⌛️ Project starter](#project-starter-repo)
+- [🧩 Concepts](#concepts-to-review-for-this-project)
+- [🎯 Learning goal](#learning-goal)
 - [💻 Application Overview](#overview)
   - [📸Screenshot](#screenshot)
   - [🥷🏽 The challenge](#the-challenge)
@@ -14,7 +16,17 @@
 - [⏭️ Continued development](#continued-development)
 - [📚 Useful resources](#useful-resources)
 
+## Project completed repo
+
+- check out the code here `->` [completed](https://github.com/hermkan/code-journey-css/tree/main/01-healthy-recipe/completed)
+
+## Project starter repo
+
+- check out the code here `->` [starter](https://github.com/hermkan/code-journey-css/tree/main/01-healthy-recipe/starter)
+
 ## Concepts to review for this project
+
+- CSS selectors
 
 ## Learning Goal
 
@@ -24,7 +36,7 @@
 
 ### Screenshot
 
-![Design preview for Healthy Recipes](/projects/01-HTML-CSS/05-healthy-receipe/Quinoa-and-Kale-Salad-Recipe.png)
+![Design preview for Healthy Recipes](./Quinoa-and-Kale-Salad-Recipe.png)
 
 ### The challenge
 
@@ -33,7 +45,7 @@ Some styling was added to the page in `style.css`
 
 ### Links
 
-- Live Site URL: [HEALTHY RECIPE](https://journey-code-semantic-html.vercel.app/)
+- Live Site URL: [Healthy Recipes](https://code-journey-css-css-selectors.vercel.app/)
 
 ## Tasks
 

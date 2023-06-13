@@ -30,7 +30,7 @@
 
 ## Learning Goal
 
-- Apply knowledge of CSS selectors, to give a recipe website some new style!
+- Apply knowledge of Display and positioning !
 
 ## Overview
 

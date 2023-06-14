@@ -18,11 +18,11 @@
 
 ## Project completed repo
 
-- check out the code here `->` [completed](https://github.com/hermkan/code-journey-css/tree/main/01-healthy-recipe/completed)
+- check out the code here `->` [completed](https://github.com/hermkan/code-journey-projects-css/tree/main/03-broadway/completed)
 
 ## Project starter repo
 
-- check out the code here `->` [starter](https://github.com/hermkan/code-journey-css/tree/main/01-healthy-recipe/starter)
+- check out the code here `->` [starter](https://github.com/hermkan/code-journey-projects-css/tree/main/03-broadway/starter)
 
 ## Concepts to review for this project
 

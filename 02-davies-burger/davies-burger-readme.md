@@ -18,11 +18,11 @@
 
 ## Project completed repo
 
-- check out the code here `->` [completed](https://github.com/hermkan/code-journey-css/tree/main/01-healthy-recipe/completed)
+- check out the code here `->` [completed](https://github.com/hermkan/code-journey-projects-css/tree/main/02-davies-burger/completed)
 
 ## Project starter repo
 
-- check out the code here `->` [starter](https://github.com/hermkan/code-journey-css/tree/main/01-healthy-recipe/starter)
+- check out the code here `->` [starter](https://github.com/hermkan/code-journey-projects-css/tree/main/02-davies-burger/starter)
 
 ## Concepts to review for this project
 
@@ -30,7 +30,7 @@
 
 ## Learning Goal
 
-- Apply knowledge of CSS selectors, to give a recipe website some new style!
+- Apply your knowledge of Box model!
 
 ## Overview
 

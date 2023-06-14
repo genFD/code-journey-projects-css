@@ -1,4 +1,4 @@
-# DAVIES BURGER
+# Broadway
 
 ## Table of contents
 
@@ -26,17 +26,17 @@
 
 ## Concepts to review for this project
 
-- CSS selectors
+- Display and positioning
 
 ## Learning Goal
 
-- Apply knowledge of Display and positioning !
+- Apply knowledge of Display and positioning
 
 ## Overview
 
 ### Screenshot
 
-![Design preview for Healthy Recipes](./Quinoa-and-Kale-Salad-Recipe.png)
+![Design preview for Broadway](./broadway-.png)
 
 ### The challenge
 
@@ -45,7 +45,7 @@ Some styling was added to the page in `style.css`
 
 ### Links
 
-- Live Site URL: [Healthy Recipes](https://code-journey-css-css-selectors.vercel.app/)
+- Live Site URL: [Broadway](https://code-journey-projects-css-display-positioning.vercel.app/)
 
 ## Tasks
 

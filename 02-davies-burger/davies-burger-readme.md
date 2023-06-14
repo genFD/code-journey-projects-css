@@ -26,7 +26,7 @@
 
 ## Concepts to review for this project
 
-- CSS selectors
+- Box model
 
 ## Learning Goal
 
@@ -36,7 +36,7 @@
 
 ### Screenshot
 
-![Design preview for Healthy Recipes](./Quinoa-and-Kale-Salad-Recipe.png)
+![Design preview for Davies burger](./Davie-JR-s-Menu.png)
 
 ### The challenge
 
@@ -45,7 +45,7 @@ Some styling was added to the page in `style.css`
 
 ### Links
 
-- Live Site URL: [Healthy Recipes](https://code-journey-css-css-selectors.vercel.app/)
+- Live Site URL: [Davies burger](https://code-journey-projects-css-box-model.vercel.app/)
 
 ## Tasks
 

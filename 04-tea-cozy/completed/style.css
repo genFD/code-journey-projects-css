@@ -1,0 +1,155 @@
+/* Universal Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  background-color: black;
+  opacity: 0.9;
+  font-family: 'Helvetica', cursive;
+  font-size: 22px;
+  text-align: center;
+}
+
+h2,
+h3,
+h4,
+h5,
+a,
+p,
+figcaption {
+  color: seashell;
+}
+figcaption {
+  margin-top: 10px;
+}
+
+header {
+  height: 69px;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  border-bottom: 1px solid seashell;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 10px;
+  background-color: black;
+  width: 100%;
+}
+
+#logo {
+  height: 50px;
+}
+
+nav ul {
+  display: flex;
+  width: 350px;
+  justify-content: space-between;
+}
+
+#links {
+  text-decoration: underline;
+}
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 69px;
+}
+
+#mission {
+  background-image: url(./img/img-mission-background.webp);
+  height: 700px;
+  width: 1200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+
+#mission-text {
+  width: 1200px;
+  padding: 20px 0;
+  background-color: black;
+}
+
+#mission-text h2 {
+  margin-bottom: 10px;
+}
+
+#featured-tea {
+  width: 1000px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+#text-feature {
+  height: 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+#images-feature {
+  height: 500px;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-around;
+  justify-content: center;
+}
+
+#images-feature img {
+  width: 300px;
+  height: 200px;
+  margin-right: 30px;
+}
+
+#locations {
+  background-image: url(./img/img-locations-background.jpg);
+  background-position: center;
+  height: 500px;
+  width: 1200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+
+#locations h2 {
+  margin-bottom: 15px;
+}
+
+#locations-info-container {
+  display: flex;
+  justify-content: center;
+}
+
+.locations-info {
+  width: 300px;
+  height: 300px;
+  margin: 0 20px;
+  background-color: black;
+  opacity: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+#contacts {
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+footer {
+  display: flex;
+  padding-left: 20px;
+}
+
+footer h5 {
+  text-align: left;
+}

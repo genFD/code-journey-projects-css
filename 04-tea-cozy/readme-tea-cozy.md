@@ -17,15 +17,15 @@
 
 ## Project completed repo
 
-- check out the code here `->` [completed](https://github.com/hermkan/code-journey-projects-css/tree/main/03-broadway/completed)
+- check out the code here `->` [completed](https://github.com/hermkan/code-journey-projects-css/tree/main/04-tea-cozy/completed)
 
 ## Project starter repo
 
-- check out the code here `->` [starter](https://github.com/hermkan/code-journey-projects-css/tree/main/03-broadway/starter)
+- check out the code here `->` [starter](https://github.com/hermkan/code-journey-projects-css/tree/main/04-tea-cozy/starter)
 
 ## Concepts to review for this project
 
-- Display and positioning
+- Flexbox
 
 ## Learning Goal
 
@@ -45,7 +45,7 @@ The challenge is to build out this page and get it looking as close to the desig
 
 ### Links
 
-- Live Site URL: [Tea Cozy](https://code-journey-projects-css-display-positioning.vercel.app/)
+- Live Site URL: [Tea Cozy](https://code-journey-projects-css-flexbox.vercel.app/)
 
 ## Built with
 

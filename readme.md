@@ -6,4 +6,4 @@
 
 - [Broadway](https://github.com/hermkan/code-journey-projects-css/blob/main/03-broadway/broadway-readme.md) `<--` - `Display and positioning` !!!
 
-- [Tea Cozy](https://github.com/hermkan/code-journey-projects-css/blob/main/04-tea-cozy/readme-tea-cozy.md) `<--` - `Display and positioning` !!!
+- [Tea Cozy](https://github.com/hermkan/code-journey-projects-css/blob/main/04-tea-cozy/readme-tea-cozy.md) `<--` - `Flexbox` !!!

@@ -41,7 +41,7 @@
 ### The challenge
 
 The challenge is to build out this page and get it looking as close to the design as possible.
-Some styling was added to the page in `style.css`
+We have provided the initial styling in `style.css`
 
 ### Links
 

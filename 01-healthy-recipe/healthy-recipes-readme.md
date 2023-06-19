@@ -7,9 +7,6 @@
 - [🧩 Concepts](#concepts-to-review-for-this-project)
 - [🎯 Learning goal](#learning-goal)
 - [💻 Application Overview](#overview)
-  - [📸Screenshot](#screenshot)
-  - [🥷🏽 The challenge](#the-challenge)
-  - [🔗Links](#links)
 - [🪜 Tasks](#tasks)
 - [Built with](#built-with)
 - [📕 What I learned](#what-i-learned)
@@ -33,19 +30,6 @@
 - Apply knowledge of CSS selectors, to give a recipe website some new style!
 
 ## Overview
-
-### Screenshot
-
-![Design preview for Healthy Recipes](./Quinoa-and-Kale-Salad-Recipe.png)
-
-### The challenge
-
-The challenge is to build out this page and get it looking as close to the design as possible.
-Some styling was added to the page in `style.css`
-
-### Links
-
-- Live Site URL: [Healthy Recipes](https://code-journey-css-css-selectors.vercel.app/)
 
 ## Tasks
 

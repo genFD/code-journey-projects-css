@@ -2,7 +2,7 @@
 # dependencies
 /node_modules
 
-
+/05-task-board
 /.pnp
 .pnp.js
 
